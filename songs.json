@@ -1,0 +1,808 @@
+[
+    {
+        "id": 1,
+        "song_name": "Believer",
+        "artist": "Imagine Dragons",
+        "genre": "Rock",
+        "mood": "Energetic",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2017,
+        "keywords": [
+            "motivation",
+            "power",
+            "workout",
+            "energy"
+        ],
+        "description": "A powerful rock anthem with motivational lyrics, energetic vocals, and driving beats that inspire confidence and perseverance."
+    },
+    {
+        "id": 2,
+        "song_name": "Thunder",
+        "artist": "Imagine Dragons",
+        "genre": "Rock",
+        "mood": "Energetic",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2017,
+        "keywords": [
+            "success",
+            "dreams",
+            "energy",
+            "rock"
+        ],
+        "description": "An upbeat rock song about chasing dreams with electronic influences and an energetic rhythm."
+    },
+    {
+        "id": 3,
+        "song_name": "Enemy",
+        "artist": "Imagine Dragons",
+        "genre": "Rock",
+        "mood": "Intense",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2021,
+        "keywords": [
+            "determination",
+            "battle",
+            "focus",
+            "gaming"
+        ],
+        "description": "An intense alternative rock track with powerful vocals and themes of resilience and overcoming obstacles."
+    },
+    {
+        "id": 4,
+        "song_name": "Perfect",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "mood": "Romantic",
+        "tempo": "Slow",
+        "language": "English",
+        "release_year": 2017,
+        "keywords": [
+            "love",
+            "wedding",
+            "romance",
+            "soft"
+        ],
+        "description": "A soft romantic ballad celebrating love with gentle melodies and emotional lyrics."
+    },
+    {
+        "id": 5,
+        "song_name": "Shape of You",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "mood": "Happy",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2017,
+        "keywords": [
+            "dance",
+            "love",
+            "party",
+            "pop"
+        ],
+        "description": "A catchy pop song with danceable rhythms and playful romantic themes."
+    },
+    {
+        "id": 6,
+        "song_name": "Photograph",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "mood": "Emotional",
+        "tempo": "Slow",
+        "language": "English",
+        "release_year": 2014,
+        "keywords": [
+            "memories",
+            "love",
+            "nostalgia"
+        ],
+        "description": "A heartfelt song about preserving memories and staying connected through love."
+    },
+    {
+        "id": 7,
+        "song_name": "Blinding Lights",
+        "artist": "The Weeknd",
+        "genre": "Synth Pop",
+        "mood": "Energetic",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2019,
+        "keywords": [
+            "night",
+            "retro",
+            "dance",
+            "energy"
+        ],
+        "description": "A retro-inspired synth pop hit with an energetic beat perfect for driving or dancing."
+    },
+    {
+        "id": 8,
+        "song_name": "Stay",
+        "artist": "The Kid LAROI & Justin Bieber",
+        "genre": "Pop",
+        "mood": "Romantic",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2021,
+        "keywords": [
+            "love",
+            "relationship",
+            "pop"
+        ],
+        "description": "A modern pop song expressing love, regret, and the desire to stay together."
+    },
+    {
+        "id": 9,
+        "song_name": "Levitating",
+        "artist": "Dua Lipa",
+        "genre": "Pop",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2020,
+        "keywords": [
+            "dance",
+            "party",
+            "fun"
+        ],
+        "description": "A vibrant disco-inspired pop track with uplifting energy and dance rhythms."
+    },
+    {
+        "id": 10,
+        "song_name": "Someone Like You",
+        "artist": "Adele",
+        "genre": "Soul",
+        "mood": "Sad",
+        "tempo": "Slow",
+        "language": "English",
+        "release_year": 2011,
+        "keywords": [
+            "heartbreak",
+            "emotional",
+            "love"
+        ],
+        "description": "A deeply emotional ballad about heartbreak, acceptance, and moving on."
+    },
+    {
+        "id": 11,
+        "song_name": "Rolling in the Deep",
+        "artist": "Adele",
+        "genre": "Soul",
+        "mood": "Powerful",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2010,
+        "keywords": [
+            "breakup",
+            "strength",
+            "emotion"
+        ],
+        "description": "A soulful breakup anthem filled with powerful vocals and emotional intensity."
+    },
+    {
+        "id": 12,
+        "song_name": "Counting Stars",
+        "artist": "OneRepublic",
+        "genre": "Pop Rock",
+        "mood": "Motivational",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2013,
+        "keywords": [
+            "dreams",
+            "hope",
+            "success"
+        ],
+        "description": "An uplifting pop rock song encouraging ambition over material wealth."
+    },
+    {
+        "id": 13,
+        "song_name": "Radioactive",
+        "artist": "Imagine Dragons",
+        "genre": "Rock",
+        "mood": "Powerful",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2012,
+        "keywords": [
+            "strength",
+            "future",
+            "rock"
+        ],
+        "description": "A dramatic rock song combining electronic sounds with themes of transformation."
+    },
+    {
+        "id": 14,
+        "song_name": "Senorita",
+        "artist": "Shawn Mendes & Camila Cabello",
+        "genre": "Pop",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2019,
+        "keywords": [
+            "romance",
+            "duet",
+            "love"
+        ],
+        "description": "A romantic duet with smooth melodies and passionate chemistry."
+    },
+    {
+        "id": 15,
+        "song_name": "Bad Guy",
+        "artist": "Billie Eilish",
+        "genre": "Pop",
+        "mood": "Confident",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2019,
+        "keywords": [
+            "attitude",
+            "modern",
+            "pop"
+        ],
+        "description": "A minimalist pop hit with confident lyrics and unique production."
+    },
+    {
+        "id": 16,
+        "song_name": "Kesariya",
+        "artist": "Arijit Singh",
+        "genre": "Romantic",
+        "mood": "Romantic",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2022,
+        "keywords": [
+            "love",
+            "bollywood",
+            "soft"
+        ],
+        "description": "A soothing romantic Bollywood song expressing deep affection and emotional connection."
+    },
+    {
+        "id": 17,
+        "song_name": "Apna Bana Le",
+        "artist": "Arijit Singh",
+        "genre": "Romantic",
+        "mood": "Romantic",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2022,
+        "keywords": [
+            "love",
+            "heart",
+            "romance"
+        ],
+        "description": "A heartfelt romantic melody with warm vocals and emotional lyrics."
+    },
+    {
+        "id": 18,
+        "song_name": "Tum Hi Ho",
+        "artist": "Arijit Singh",
+        "genre": "Romantic",
+        "mood": "Emotional",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2013,
+        "keywords": [
+            "love",
+            "heartbreak",
+            "emotion"
+        ],
+        "description": "A timeless romantic ballad filled with longing and heartfelt emotion."
+    },
+    {
+        "id": 19,
+        "song_name": "Raataan Lambiyan",
+        "artist": "Jubin Nautiyal & Asees Kaur",
+        "genre": "Romantic",
+        "mood": "Calm",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2021,
+        "keywords": [
+            "love",
+            "peace",
+            "romance"
+        ],
+        "description": "A gentle romantic duet with soothing vocals and peaceful melodies."
+    },
+    {
+        "id": 20,
+        "song_name": "Kal Ho Naa Ho",
+        "artist": "Sonu Nigam",
+        "genre": "Bollywood",
+        "mood": "Emotional",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2003,
+        "keywords": [
+            "life",
+            "emotion",
+            "hope"
+        ],
+        "description": "An inspiring song encouraging people to value every moment of life."
+    },
+    {
+        "id": 21,
+        "song_name": "Zinda",
+        "artist": "Siddharth Mahadevan",
+        "genre": "Rock",
+        "mood": "Motivational",
+        "tempo": "Fast",
+        "language": "Hindi",
+        "release_year": 2013,
+        "keywords": [
+            "motivation",
+            "courage",
+            "energy"
+        ],
+        "description": "A motivational Hindi rock song encouraging fearless living."
+    },
+    {
+        "id": 22,
+        "song_name": "Malang",
+        "artist": "Ved Sharma",
+        "genre": "Dance",
+        "mood": "Energetic",
+        "tempo": "Fast",
+        "language": "Hindi",
+        "release_year": 2020,
+        "keywords": [
+            "dance",
+            "party",
+            "energy"
+        ],
+        "description": "A high-energy Bollywood dance song with powerful electronic beats."
+    },
+    {
+        "id": 23,
+        "song_name": "Ghungroo",
+        "artist": "Arijit Singh",
+        "genre": "Dance",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "Hindi",
+        "release_year": 2019,
+        "keywords": [
+            "dance",
+            "celebration",
+            "party"
+        ],
+        "description": "A vibrant Bollywood dance number perfect for celebrations."
+    },
+    {
+        "id": 24,
+        "song_name": "Nashe Si Chadh Gayi",
+        "artist": "Arijit Singh",
+        "genre": "Dance",
+        "mood": "Happy",
+        "tempo": "Fast",
+        "language": "Hindi",
+        "release_year": 2016,
+        "keywords": [
+            "dance",
+            "love",
+            "party"
+        ],
+        "description": "A lively romantic dance song with catchy melodies."
+    },
+    {
+        "id": 25,
+        "song_name": "Ilahi",
+        "artist": "Arijit Singh",
+        "genre": "Travel",
+        "mood": "Free",
+        "tempo": "Medium",
+        "language": "Hindi",
+        "release_year": 2013,
+        "keywords": [
+            "travel",
+            "freedom",
+            "journey"
+        ],
+        "description": "A feel-good song celebrating travel, freedom, and new experiences."
+    },
+    {
+        "id": 26,
+        "song_name": "Brown Munde",
+        "artist": "AP Dhillon",
+        "genre": "Punjabi Pop",
+        "mood": "Confident",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2020,
+        "keywords": [
+            "party",
+            "confidence",
+            "youth"
+        ],
+        "description": "A modern Punjabi hit with stylish beats and confident lyrics."
+    },
+    {
+        "id": 27,
+        "song_name": "Excuses",
+        "artist": "AP Dhillon",
+        "genre": "Punjabi Pop",
+        "mood": "Emotional",
+        "tempo": "Medium",
+        "language": "Punjabi",
+        "release_year": 2020,
+        "keywords": [
+            "love",
+            "emotion",
+            "melody"
+        ],
+        "description": "A melodic Punjabi track exploring love and misunderstandings."
+    },
+    {
+        "id": 28,
+        "song_name": "Insane",
+        "artist": "AP Dhillon",
+        "genre": "Punjabi Pop",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "modern",
+            "pop"
+        ],
+        "description": "A smooth Punjabi pop song with romantic themes and catchy production."
+    },
+    {
+        "id": 29,
+        "song_name": "Softly",
+        "artist": "Karan Aujla",
+        "genre": "Punjabi Pop",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "soft",
+            "melody"
+        ],
+        "description": "A romantic Punjabi song with mellow beats and modern vocals."
+    },
+    {
+        "id": 30,
+        "song_name": "Players",
+        "artist": "Badshah",
+        "genre": "Hip Hop",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "party",
+            "club",
+            "hiphop"
+        ],
+        "description": "A club-ready hip-hop track featuring energetic beats and stylish lyrics."
+    },
+    {
+        "id": 31,
+        "song_name": "52 Bars",
+        "artist": "Karan Aujla",
+        "genre": "Hip Hop",
+        "mood": "Confident",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "rap",
+            "confidence",
+            "beats"
+        ],
+        "description": "A Punjabi rap song full of confidence and sharp lyrical delivery."
+    },
+    {
+        "id": 32,
+        "song_name": "GOAT",
+        "artist": "Diljit Dosanjh",
+        "genre": "Punjabi Pop",
+        "mood": "Motivational",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2020,
+        "keywords": [
+            "success",
+            "confidence",
+            "motivation"
+        ],
+        "description": "A motivational Punjabi anthem celebrating confidence and achievement."
+    },
+    {
+        "id": 33,
+        "song_name": "Lover",
+        "artist": "Diljit Dosanjh",
+        "genre": "Romantic",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "Punjabi",
+        "release_year": 2021,
+        "keywords": [
+            "love",
+            "romance",
+            "melody"
+        ],
+        "description": "A romantic Punjabi melody with warm vocals and heartfelt lyrics."
+    },
+    {
+        "id": 34,
+        "song_name": "Born To Shine",
+        "artist": "Diljit Dosanjh",
+        "genre": "Punjabi Pop",
+        "mood": "Confident",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2020,
+        "keywords": [
+            "success",
+            "confidence",
+            "style"
+        ],
+        "description": "An upbeat Punjabi track celebrating ambition, success, and self-belief."
+    },
+    {
+        "id": 35,
+        "song_name": "Naah",
+        "artist": "Harrdy Sandhu",
+        "genre": "Punjabi Pop",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2017,
+        "keywords": [
+            "dance",
+            "party",
+            "fun"
+        ],
+        "description": "A catchy Punjabi party song with infectious beats."
+    },
+    {
+        "id": 36,
+        "song_name": "Cheap Thrills",
+        "artist": "Sia",
+        "genre": "Pop",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2016,
+        "keywords": [
+            "dance",
+            "party",
+            "fun"
+        ],
+        "description": "An upbeat pop song about enjoying life without spending much."
+    },
+    {
+        "id": 37,
+        "song_name": "Faded",
+        "artist": "Alan Walker",
+        "genre": "EDM",
+        "mood": "Calm",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2015,
+        "keywords": [
+            "electronic",
+            "dreamy",
+            "focus"
+        ],
+        "description": "A melodic electronic track with emotional vocals and atmospheric sounds."
+    },
+    {
+        "id": 38,
+        "song_name": "Alone",
+        "artist": "Alan Walker",
+        "genre": "EDM",
+        "mood": "Motivational",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2016,
+        "keywords": [
+            "unity",
+            "hope",
+            "electronic"
+        ],
+        "description": "An uplifting EDM song promoting togetherness and hope."
+    },
+    {
+        "id": 39,
+        "song_name": "On My Way",
+        "artist": "Alan Walker",
+        "genre": "EDM",
+        "mood": "Motivational",
+        "tempo": "Fast",
+        "language": "English",
+        "release_year": 2019,
+        "keywords": [
+            "journey",
+            "dreams",
+            "hope"
+        ],
+        "description": "An energetic electronic song about pursuing goals and personal growth."
+    },
+    {
+        "id": 40,
+        "song_name": "Heat Waves",
+        "artist": "Glass Animals",
+        "genre": "Indie Pop",
+        "mood": "Nostalgic",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2020,
+        "keywords": [
+            "nostalgia",
+            "memories",
+            "indie"
+        ],
+        "description": "A dreamy indie pop track reflecting on memories and relationships."
+    },
+    {
+        "id": 41,
+        "song_name": "Chaleya",
+        "artist": "Arijit Singh",
+        "genre": "Romantic",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "Hindi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "romance",
+            "bollywood"
+        ],
+        "description": "A modern Bollywood love song with soothing melodies."
+    },
+    {
+        "id": 42,
+        "song_name": "Heeriye",
+        "artist": "Arijit Singh & Jasleen Royal",
+        "genre": "Romantic",
+        "mood": "Calm",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "peace",
+            "melody"
+        ],
+        "description": "A gentle romantic song with relaxing vocals and emotional depth."
+    },
+    {
+        "id": 43,
+        "song_name": "Satranga",
+        "artist": "Arijit Singh",
+        "genre": "Romantic",
+        "mood": "Emotional",
+        "tempo": "Slow",
+        "language": "Hindi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "emotion",
+            "heart"
+        ],
+        "description": "An emotional romantic ballad with expressive lyrics."
+    },
+    {
+        "id": 44,
+        "song_name": "With You",
+        "artist": "AP Dhillon",
+        "genre": "Punjabi Pop",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "love",
+            "relationship",
+            "modern"
+        ],
+        "description": "A smooth Punjabi pop song expressing affection and companionship."
+    },
+    {
+        "id": 45,
+        "song_name": "Winning Speech",
+        "artist": "Karan Aujla",
+        "genre": "Hip Hop",
+        "mood": "Confident",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2024,
+        "keywords": [
+            "success",
+            "rap",
+            "confidence"
+        ],
+        "description": "A high-energy rap track celebrating achievement and determination."
+    },
+    {
+        "id": 46,
+        "song_name": "Die With A Smile",
+        "artist": "Lady Gaga & Bruno Mars",
+        "genre": "Pop",
+        "mood": "Romantic",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2024,
+        "keywords": [
+            "love",
+            "duet",
+            "modern"
+        ],
+        "description": "A soulful modern pop duet about cherishing love and living fully."
+    },
+    {
+        "id": 47,
+        "song_name": "Flowers",
+        "artist": "Miley Cyrus",
+        "genre": "Pop",
+        "mood": "Confident",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2023,
+        "keywords": [
+            "selflove",
+            "confidence",
+            "independence"
+        ],
+        "description": "An empowering pop anthem focused on independence and self-love."
+    },
+    {
+        "id": 48,
+        "song_name": "Unholy",
+        "artist": "Sam Smith & Kim Petras",
+        "genre": "Pop",
+        "mood": "Dark",
+        "tempo": "Medium",
+        "language": "English",
+        "release_year": 2022,
+        "keywords": [
+            "dark",
+            "pop",
+            "dramatic"
+        ],
+        "description": "A dark pop song with bold production and dramatic storytelling."
+    },
+    {
+        "id": 49,
+        "song_name": "Jhoome Jo Pathaan",
+        "artist": "Arijit Singh",
+        "genre": "Dance",
+        "mood": "Party",
+        "tempo": "Fast",
+        "language": "Hindi",
+        "release_year": 2023,
+        "keywords": [
+            "dance",
+            "celebration",
+            "bollywood"
+        ],
+        "description": "A high-energy Bollywood dance track perfect for celebrations."
+    },
+    {
+        "id": 50,
+        "song_name": "Hass Hass",
+        "artist": "Diljit Dosanjh & Sia",
+        "genre": "Punjabi Pop",
+        "mood": "Happy",
+        "tempo": "Fast",
+        "language": "Punjabi",
+        "release_year": 2023,
+        "keywords": [
+            "happy",
+            "dance",
+            "party"
+        ],
+        "description": "A cheerful Punjabi pop collaboration with upbeat rhythms and joyful vibes."
+    }
+]
