@@ -1,0 +1,35 @@
+Vikram Joshi
+Cloud Engineer
+
+Email: vikram.joshi@example.com
+Phone: +91 9876543219
+Location: Mumbai
+
+PROFESSIONAL SUMMARY
+Cloud Engineer with 3+ years of experience delivering production-ready solutions. Strong problem-solving ability and experience working in Agile teams.
+
+TECHNICAL SKILLS
+Azure, AWS, Docker, Terraform, Linux, Networking
+
+PROFESSIONAL EXPERIENCE
+Senior Cloud Engineer, ABC Technologies (2023-Present)
+- Designed and implemented enterprise-grade solutions.
+- Collaborated with cross-functional teams.
+- Improved application performance and reliability.
+
+Cloud Engineer, XYZ Solutions (2021-2023)
+- Built multiple client projects.
+- Wrote clean, maintainable code and documentation.
+
+EDUCATION
+B.Tech in Computer Science, 2021
+
+PROJECTS
+• Major Project: Enterprise Management System
+• Personal Project: AI-powered Portfolio Website
+
+CERTIFICATIONS
+AWS Cloud Practitioner, Git & GitHub, Python Programming
+
+SOFT SKILLS
+Communication, Teamwork, Problem Solving, Leadership

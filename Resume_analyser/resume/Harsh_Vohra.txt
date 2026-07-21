@@ -1,0 +1,41 @@
+Harsh Vohra
+SAP Consultant
+
+Email: harsh.vohra@example.com
+Phone: +91 9876543016
+Location: Jaipur
+
+PROFESSIONAL SUMMARY
+SAP Consultant with 3 years of professional experience delivering scalable solutions in Agile teams.
+
+TECHNICAL SKILLS
+SAP MM,ERP,Procurement
+
+PROFESSIONAL EXPERIENCE
+- SAP Consultant, ABC Technologies (2022-Present): Delivered production features, collaborated with QA and DevOps, improved performance by 30%.
+- Associate Engineer, XYZ Solutions (2021-2022): Developed reusable modules and automated workflows.
+
+
+EDUCATION
+B.Tech in Computer Science (2021)
+
+PROJECTS
+- AI Resume Screening System using LangChain, ChromaDB and HuggingFace.
+- Inventory Management System with authentication and analytics.
+- Cloud-based deployment pipeline using Docker and GitHub Actions.
+
+
+CERTIFICATIONS
+- AWS Cloud Practitioner
+- Google Data Analytics
+- Microsoft Azure Fundamentals
+- Python Programming Professional
+
+
+ACHIEVEMENTS
+- Improved application performance through optimization.
+- Collaborated successfully in cross-functional teams.
+- Recognized for problem-solving and innovation.
+
+SOFT SKILLS
+Communication, Leadership, Teamwork, Critical Thinking, Time Management

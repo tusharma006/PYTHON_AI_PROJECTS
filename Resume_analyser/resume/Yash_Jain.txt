@@ -1,0 +1,41 @@
+Yash Jain
+Full Stack Developer
+
+Email: yash.jain@example.com
+Phone: +91 9876543014
+Location: Mumbai
+
+PROFESSIONAL SUMMARY
+Senior Full Stack Developer with over 6 years of experience leading enterprise projects, mentoring teams and delivering business impact.
+
+TECHNICAL SKILLS
+React,Node.js,MongoDB,Express
+
+PROFESSIONAL EXPERIENCE
+- Senior Full Stack Developer, GlobalSoft (2020-Present): Led a team of 6 engineers, designed scalable architecture and reduced cloud costs by 25%.
+- Full Stack Developer, Innovate Labs (2018-2020): Delivered enterprise solutions for international clients.
+
+
+EDUCATION
+B.Tech in Computer Science (2021)
+
+PROJECTS
+- AI Resume Screening System using LangChain, ChromaDB and HuggingFace.
+- Inventory Management System with authentication and analytics.
+- Cloud-based deployment pipeline using Docker and GitHub Actions.
+
+
+CERTIFICATIONS
+- AWS Cloud Practitioner
+- Google Data Analytics
+- Microsoft Azure Fundamentals
+- Python Programming Professional
+
+
+ACHIEVEMENTS
+- Improved application performance through optimization.
+- Collaborated successfully in cross-functional teams.
+- Recognized for problem-solving and innovation.
+
+SOFT SKILLS
+Communication, Leadership, Teamwork, Critical Thinking, Time Management
